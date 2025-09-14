@@ -1,4 +1,4 @@
-﻿name,slug,value,date_of_information,ranking,region
+﻿Country,slug,value,date_of_information,ranking,region
 China,china,1810000000,2023,1,EastandSoutheastAsia
 India,india,1140000000,2022,2,SouthAsia
 UnitedStates,united-states,386000000,2023,3,NorthAmerica

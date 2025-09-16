@@ -17,7 +17,7 @@ Thailand,thailand,121000000,2023,15,East and Southeast Asia
 South Africa,south-africa,108000000,2023,16,Africa
 Egypt,egypt,106000000,2023,17,Africa
 Germany,germany,105000000,2023,18,Europe
-Turkey (Turkiye),turkey-turkiye,92200000,2023,19,Middle East
+Turkey,turkey-turkiye,92200000,2023,19,Middle East
 Colombia,colombia,87400000,2023,20,South America
 United Kingdom,united-kingdom,84300000,2023,21,Europe
 Korea, South,korea-south,83900000,2023,22,East and Southeast Asia
@@ -26,17 +26,17 @@ France,france,77400000,2023,24,Europe
 Ethiopia,ethiopia,71400000,2022,25,Africa
 Tanzania,tanzania,70200000,2023,26,Africa
 Kenya,kenya,66700000,2023,27,Africa
-Burma,burma,65500000,2023,28,East and Southeast Asia
+Myanmar,burma,65500000,2023,28,East and Southeast Asia
 Argentina,argentina,62700000,2023,29,South America
 Spain,spain,61200000,2023,30,Europe
 Morocco,morocco,55900000,2023,31,Africa
-Cote d'Ivoire,cote-divoire,53600000,2023,32,Africa
+Ivory Coast,cote-divoire,53600000,2023,32,Africa
 Saudi Arabia,saudi-arabia,52500000,2023,33,Middle East
 Poland,poland,52400000,2023,34,Europe
 Algeria,algeria,51500000,2023,35,Africa
 Ukraine,ukraine,50300000,2023,36,Europe
 Malaysia,malaysia,50100000,2023,37,East and Southeast Asia
-CongoDemocratic Republic of the,congo-democratic-republic-of-the,49800000,2022,38,Africa
+Democratic Republic of the Congo,congo-democratic-republic-of-the,49800000,2022,38,Africa
 Iraq,iraq,45700000,2023,39,Middle East
 Uganda,uganda,42100000,2023,40,Africa
 Peru,peru,41300000,2023,41,South America
@@ -77,7 +77,7 @@ Niger,niger,14200000,2021,75,Africa
 Libya,libya,13900000,2022,76,Africa
 Guinea,guinea,13800000,2021,77,Africa
 Israel,israel,13800000,2022,78,Middle East
-Czechia,czechia,13600000,2023,79,Europe
+Czech Republic,czechia,13600000,2023,79,Europe
 Malawi,malawi,12900000,2023,80,Africa
 Rwanda,rwanda,12800000,2023,81,Africa
 Portugal,portugal,12800000,2023,82,Europe
@@ -133,7 +133,7 @@ Botswana,botswana,4440000,2023,131,Africa
 Lebanon,lebanon,4290000,2021,132,Middle East
 West Bank,west-bank,4150000,2023,133,Middle East
 Gaza Strip,gaza-strip,4150000,2023,134,Middle East
-Puerto Rico,puerto-rico,4040000,2023,135,Central America and the Caribbean
+Puerto Rico (US),puerto-rico,4040000,2023,135,Central America and the Caribbean
 Moldova,moldova,4010000,2023,136,Europe
 Armenia,armenia,3960000,2023,137,Central Asia
 Lithuania,lithuania,3920000,2023,138,Europe
@@ -150,13 +150,13 @@ Latvia,latvia,2260000,2023,148,Europe
 Mauritius,mauritius,2100000,2023,149,Africa
 Estonia,estonia,2050000,2023,150,Europe
 Trinidad and Tobago,trinidad-and-tobago,2020000,2023,151,Central America and the Caribbean
-North Macedonia,north-macedonia,1920000,2023,152,Europe
+Macedonia,north-macedonia,1920000,2023,152,Europe
 Central African Republic,central-african-republic,1830000,2021,153,Africa
 Eritrea,eritrea,1800000,2021,154,Africa
 Kosovo,kosovo,1777859,2022,155,Europe
 Liberia,liberia,1650000,2021,156,Africa
 Lesotho,lesotho,1600000,2023,157,Africa
-Timor-Leste,timor-leste,1560000,2023,158,East and Southeast Asia
+East Timor,timor-leste,1560000,2023,158,East and Southeast Asia
 Eswatini,eswatini,1520000,2023,159,Africa
 Cyprus,cyprus,1430000,2023,160,Europe
 Macau,macau,1370000,2023,161,East and Southeast Asia
@@ -176,51 +176,51 @@ Brunei,brunei,541000,2023,174,East and Southeast Asia
 Iceland,iceland,478000,2023,175,Europe
 Solomon Islands,solomon-islands,474000,2021,176,Australia and Oceania
 Bahamas, The,bahamas-the,400000,2023,177,Central America and the Caribbean
-French Polynesia,french-polynesia,328000,2022,178,Australia and Oceania
+French Polynesia (France),french-polynesia,328000,2022,178,Australia and Oceania
 Barbados,barbados,323000,2022,179,Central America and the Caribbean
 Belize,belize,264000,2021,180,Central America and the Caribbean
-New Caledonia,new-caledonia,260000,2021,181,Australia and Oceania
+New Caledonia (France),new-caledonia,260000,2021,181,Australia and Oceania
 Vanuatu,vanuatu,256000,2022,182,Australia and Oceania
 Antigua and Barbuda,antigua-and-barbuda,184000,2021,183,Central America and the Caribbean
-Saint Lucia,saint-lucia,176000,2022,184,Central America and the Caribbean
-Curacao,curacao,172000,2022,185,Central America and the Caribbean
+St. Lucia,saint-lucia,176000,2022,184,Central America and the Caribbean
+Curacao (Netherlands),curacao,172000,2022,185,Central America and the Caribbean
 Seychelles,seychelles,165000,2023,186,Africa
 Sao Tome and Principe,sao-tome-and-principe,152000,2023,187,Africa
-Aruba,aruba,141000,2021,188,Central America and the Caribbean
+Aruba (Netherlands),aruba,141000,2021,188,Central America and the Caribbean
 Samoa,samoa,134000,2022,189,Australia and Oceania
 Andorra,andorra,126000,2023,190,Europe
-Jersey,jersey,124083,2021,191,Europe
+Jersey (UK),jersey,124083,2021,191,Europe
 Grenada,grenada,112000,2022,192,Central America and the Caribbean
-Saint Vincent and the Grenadines,saint-vincent-and-the-grenadines,103000,2023,193,Central America and the Caribbean
-Cayman Islands,cayman-islands,100000,2021,194,Central America and the Caribbean
-Guam,guam,98000,2009,195,Australia and Oceania
+St. Vincent and the Grenadines,saint-vincent-and-the-grenadines,103000,2023,193,Central America and the Caribbean
+Cayman Islands (UK),cayman-islands,100000,2021,194,Central America and the Caribbean
+Guam (US),guam,98000,2009,195,Australia and Oceania
 Virgin Islands,virgin-islands,80000,2021,196,Central America and the Caribbean
-Guernsey,guernsey,71485,2021,197,Europe
+Guernsey (UK),guernsey,71485,2021,197,Europe
 Kiribati,kiribati,70000,2023,198,Australia and Oceania
 Saint Martin,saint-martin,68840,2012,199,Central America and the Caribbean
 Sint Maarten,sint-maarten,68840,2012,200,Central America and the Caribbean
-Bermuda,bermuda,68000,2021,201,North America
-Greenland,greenland,67000,2021,202,North America
+Bermuda (UK),bermuda,68000,2021,201,North America
+Greenland (Denmark),greenland,67000,2021,202,North America
 Tonga,tonga,64000,2021,203,Australia and Oceania
-Faroe Islands,faroe-islands,59000,2021,204,Europe
+Faroe Islands (Denmark),faroe-islands,59000,2021,204,Europe
 Dominica,dominica,57000,2022,205,Central America and the Caribbean
-Saint Kitts and Nevis,saint-kitts-and-nevis,56000,2023,206,Central America and the Caribbean
+St. Kitts and Nevis,saint-kitts-and-nevis,56000,2023,206,Central America and the Caribbean
 Liechtenstein,liechtenstein,50000,2023,207,Europe
 Monaco,monaco,41000,2023,208,Europe
 San Marino,san-marino,41000,2022,209,Europe
-British Virgin Islands,british-virgin-islands,38000,2021,210,Central America and the Caribbean
-Gibraltar,gibraltar,37000,2022,211,Europe
-Anguilla,anguilla,26000,2021,212,Central America and the Caribbean
-Turks and Caicos Islands,turks-and-caicos-islands,25085,2004,213,Central America and the Caribbean
-Palau,palau,24000,2023,214,Australia and Oceania
+British Virgin Islands(UK),british-virgin-islands,38000,2021,210,Central America and the Caribbean
+Gibraltar (UK),gibraltar,37000,2022,211,Europe
+Anguilla (UK),anguilla,26000,2021,212,Central America and the Caribbean
+Turks and Caicos Islands (UK),turks-and-caicos-islands,25085,2004,213,Central America and the Caribbean
+Palau (US),palau,24000,2023,214,Australia and Oceania
 Micronesia, Federated States of,micronesia-federated-states-of,22000,2021,215,Australia and Oceania
-Northern Mariana Islands,northern-mariana-islands,20474,2004,216,Australia and Oceania
-Cook Islands,cook-islands,17000,2021,217,Australia and Oceania
+Northern Mariana Islands (US),northern-mariana-islands,20474,2004,216,Australia and Oceania
+
 Marshall Islands,marshall-islands,16000,2021,218,Australia and Oceania
 Nauru,nauru,10000,2021,219,Australia and Oceania
 Tuvalu,tuvalu,9000,2021,220,Australia and Oceania
 Falkland Islands (Islas Malvinas),falkland-islands-islas-malvinas,6000,2021,221,South America
-Montserrat,montserrat,5000,2020,222,Central America and the Caribbean
+Montserrat (UK),montserrat,5000,2020,222,Central America and the Caribbean
 Saint Helena, Ascension, and Tristan da Cunha,saint-helena-ascension-and-tristan-da-cunha,4000,2021,223,Africa
-American Samoa,american-samoa,2250,2009,224,Australia and Oceania
-Wallis and Futuna,wallis-and-futuna,0,2018,225,Australia and Oceania
+American Samoa (US),american-samoa,2250,2009,224,Australia and Oceania
+Wallis and Futuna (France),wallis-and-futuna,0,2018,225,Australia and Oceania
